@@ -28,7 +28,7 @@ function Login() {
                                         </div>
 
                                         <div >
-                                            <h1 className=" fw-bold text-light fs-3">Building the Future...</h1>
+                                            <h1 className=" fw-bold text-light fs-2">Building the Future...</h1>
                                             <p className="mt-3 mb-0 text-light build-sub-text ">
                                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                                             </p>
